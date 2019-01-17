@@ -1,2 +1,3 @@
-# Java
-BelajarJava
+# Zodiak
+
+pemrograman zodiak dengan java
